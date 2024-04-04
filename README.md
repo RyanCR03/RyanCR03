@@ -1,5 +1,4 @@
 - Hi, I’m RyanCR
-- I’m interested in video games like Minecraft, Rec Room, Mario, and Minecraft.
-- I’m currently learning about Rec Room circuits, Blender, json documents, 3d models, command blocks, piano, and pixel art.
+- I’m interested in video games like Rec Room, Mario, and Minecraft.
+- I’m currently learning about Unity, Blender Models and Textures, General Game Design, Music, and Pixel Art.
 - Terrible at getting my point across.
-- Creator of Default Redone
